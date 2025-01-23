@@ -1,5 +1,5 @@
 # Minecraft GUI Framework
-[![Contributors](https://img.shields.io/badge/Contributors-2-orange.svg)](#contributors) <!--
+[![Contributors](https://img.shields.io/badge/Contributors-2-orange.svg)](#contributors-) <!--
 [![Discord](https://img.shields.io/badge/Discord-⛓-blue.svg)](https://discord.gg/VzjQ7kFKqD) -->
 [![Tutorial](https://img.shields.io/badge/Tutorial-▶-red.svg)](https://www.youtube.com/watch?v=z4tvTrqhBZE)
 [![Downloads](https://img.shields.io/github/downloads/CloudWolfYT/MC-GUIFramework/total.svg?label=Downloads)](https://github.com/CloudWolfYT/MC-GUIFramework/releases)
