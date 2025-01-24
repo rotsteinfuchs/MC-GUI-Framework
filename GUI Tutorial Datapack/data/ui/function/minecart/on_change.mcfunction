@@ -1,6 +1,6 @@
 # remove ui element items from players
 clear @a *[minecraft:custom_data~{ui_item:{}}]
-# remove ui element item entities directly dropped out of the container
+# remove ui element item entities
 kill @e[type=item,nbt={Item:{components:{"minecraft:custom_data":{ui_item:{}}}}}]
 
 # future proofing, specifies it is a chest minecart
